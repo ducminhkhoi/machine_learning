@@ -10,9 +10,9 @@ The aim of this book is to summarize the main points of each chapter. It would b
 **Suggested reading chapters** by order
 
 * Part 1: Introduction:
-    + Chapter 1, 2: [Introduction](chapter2/chapter2.ipynb)
-    + Chapter 3, 4: [Generative Classifier](chapter3/chapter3.ipynb) or [Regressor](chapter4/chapter4.ipynb)
-    + Chapter 7, 8: [Discriminative Classifier](chapter7/chapter7.ipynb) or [Regressor](chapter8/chapter8.ipynb)
+    + Chapter 1, 2: [Introduction](chapter02/chapter2.ipynb)
+    + Chapter 3, 4: [Generative Classifier](chapter03/chapter3.ipynb) or [Regressor](chapter04/chapter4.ipynb)
+    + Chapter 7, 8: [Discriminative Classifier](chapter07/chapter7.ipynb) or [Regressor](chapter08/chapter8.ipynb)
     
 * Part 2: Fundamental algorithms:
     + Chapter 11: [Mixture models and EM algorithm](chapter11/chapter11.ipynb)
